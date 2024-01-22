@@ -1,5 +1,3 @@
-![Imagem de capa do curso. O título é "3519 - Node.js e terminal" e o subtítulo é "Dominando o ambiente de desenvolvimento front-end".](./thumb.png)
-
 # VidFlow
 
 O VidFlow é uma plataforma de compartilhamento de vídeos.
@@ -23,7 +21,7 @@ Para isso, aprenderemos a utilizar o **Node.js**, necessário para aplicar todas
 
 # Acesso ao Projeto
 
-[Acesse o projeto publicado na Vercel](https://nodejs-vidflow-vite.vercel.app/).
+[Acesse o projeto publicado na Vercel](https://videoflow.vercel.app/).
 
 ## Link do Figma
 
